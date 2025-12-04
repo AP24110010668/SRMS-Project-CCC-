@@ -47,6 +47,4 @@ DIVYA SRIVASTAVA
 B.Tech CSE (AIML)
 SRM University – Semester 3
 
-Divya Srivastava
-B.Tech CSE (AIML)
-SRM University – Semester 3
+
